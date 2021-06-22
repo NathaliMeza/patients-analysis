@@ -1,12 +1,7 @@
-
 import sys
-"""This module counts the number of lines in standard input"""
-
 Count=0
-
-for line in sys.stdin:
-    count +=1
-
-print(count, 'lines in standard input')
+For line in sys.stdin:
+    count =+1
+print
 
 
